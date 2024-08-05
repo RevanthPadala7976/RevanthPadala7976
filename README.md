@@ -1,6 +1,6 @@
 # Revanth Padala
 
-👋 Hi, I'm Revanth Padala, an Information Systems graduate student at Northeastern University with a passion for software development, backend systems, and leveraging cloud technologies to build efficient and scalable applications. With a strong foundation in both front-end and back-end technologies, I strive to create solutions that are not only functional but also enhance user experience.
+👋 Hi, I'm Revanth Padala, an Information Systems graduate student at Northeastern University who is passionate about software development, back-end systems, and leveraging cloud technologies to build efficient and scalable applications. With a strong foundation in front-end and back-end technologies, I am committed to creating solutions that prioritize functionality and enhance the user experience.
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 ## 👨‍💻 About Me
 - 🔍 **Specialization**: Information Systems, Software Development, AWS
@@ -41,13 +41,13 @@
 
 ## 📫 Contact
 
-<a href="mailto:padala.r@northeastern.edu" style="text-decoration: none;">
+<a href="mailto:padala.r@northeastern.edu" style="text-decoration: none">
   <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" alt="email" width="40" height="40"/>
 </a> &emsp;
-<a href="http://www.linkedin.com/in/revanth-padala" style="text-decoration: none;">
+<a href="http://www.linkedin.com/in/revanth-padala" style="text-decoration: none">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a> &emsp;
-<a href="https://github.com/RevanthPadala7976" style="text-decoration: none;">
+<a href="https://github.com/RevanthPadala7976" style="text-decoration: none">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
 

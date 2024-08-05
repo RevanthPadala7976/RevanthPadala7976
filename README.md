@@ -1,17 +1,20 @@
 # Revanth Padala
 
 👋 Hi, I'm Revanth Padala, an Information Systems graduate student at Northeastern University who is passionate about software development, back-end systems, and leveraging cloud technologies to build efficient and scalable applications. With a strong foundation in front-end and back-end technologies, I am committed to creating solutions that prioritize functionality and enhance the user experience.
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 ## 👨‍💻 About Me
 - 🔍 **Specialization**: Information Systems, Software Development, AWS
 - 💼 **Professional Experience**: Programmer Analyst at Cognizant Technology Solutions
 - 🧠 **Academic Pursuits**: Currently pursuing a Master's degree in Information Systems, expected to graduate in May 2025.
 - 🏆 **Accomplishments**: Successfully engineered serverless applications and optimized web performance, resulting in significant efficiency improvements.
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 - 🧩 **Fun Facts**:
   - The first computer programmer was [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace), an English mathematician known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.
   - The term "bug" to describe a software glitch originated from an actual bug—a moth—found in the [Harvard Mark II computer](https://en.wikipedia.org/wiki/Software_bug#Etymology) in 1947.
   - The first computer virus, called [Creeper](https://en.wikipedia.org/wiki/Creeper_(program)), was created as an experimental self-replicating program in the early 1970s.
 - ♟️ **Personal Interests**: I'm an avid chess player, and the strategic thinking required in chess parallels my approach to software development, allowing me to anticipate challenges and devise optimal solutions efficiently.
+
 
 ## 🚀 Technologies & Tools
 <p align="center">

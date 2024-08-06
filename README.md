@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> &emsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> &emsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> &emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> &emsp;
+  <img src="https://github.com/user-attachments/assets/3f73b8ee-4de3-4ae3-9c4f-5a9e0954f070" alt="GitHub" width="40" height="40"/> &emsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> &emsp;
 </p>
 
@@ -45,14 +45,16 @@
 ## 📫 Contact
 
 <a href="mailto:padala.r@northeastern.edu" style="text-decoration: none">
-  <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" alt="email" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/0078D7/email-open.png" alt="email" width="40" height="40"/>
 </a> &emsp;
 <a href="http://www.linkedin.com/in/revanth-padala" style="text-decoration: none">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/0078D7/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a> &emsp;
-<a href="https://github.com/RevanthPadala7976" style="text-decoration: none">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/user-attachments/assets/3f73b8ee-4de3-4ae3-9c4f-5a9e0954f070" alt="GitHub" width="40" height="40"/>
 </a>
+
+
 
 
 ## 📈 GitHub Stats

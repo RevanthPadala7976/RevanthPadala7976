@@ -6,10 +6,10 @@ With a strong foundation in front-end and back-end technologies and hands-on exp
 
 ## 👨‍💻 About Me
 - 🔍 **Specialization**: Information Systems, Software Development, AWS
-- 🤖 **Machine Learning Expertise**: Proficient in TensorFlow, PyTorch, and Scikit-Learn, with a focus on deep learning, NLP, and Transformers.
+- 🤖 **Machine Learning Expertise**: Proficient in TensorFlow, PyTorch, and Scikit-Learn, Deep Learning, NLP, and Transformers
 - 💼 **Professional Experience**: Software Developer at Cognizant Technology Solutions
-- 🧠 **Academic Pursuits**: Currently pursuing a Master's degree in Information Systems, expected to graduate in May 2025.
-- 🏆 **Accomplishments**: Successfully engineered serverless applications and optimized web performance, resulting in significant efficiency improvements.
+- 🧠 **Academic Pursuits**: Currently pursuing a Master's degree in Information Systems, expected to graduate in May 2025
+- 🏆 **Accomplishments**: Successfully engineered serverless applications and optimized web performance, resulting in significant efficiency improvements
 
 - 🧩 **Fun Facts**:
   - The first computer programmer was [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace), an English mathematician known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.

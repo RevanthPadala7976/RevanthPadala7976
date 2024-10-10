@@ -37,12 +37,9 @@ With a strong foundation in front-end and back-end technologies and hands-on exp
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> &emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> &emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/>       &emsp;
-  <img src="https://raw.githubusercontent.com/kubernetes/community/master/icons/png/k8s-icon-color.svg" alt="Deep Learning" width="40" height="40"/> &emsp;
-  <img src="https://img.icons8.com/color/48/000000/nlp.png" alt="NLP" width="40" height="40"/> &emsp;
-  <img src="https://img.icons8.com/color/48/000000/transformer.png" alt="Transformers" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> &emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> &emsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> &emsp;
 </p>
 
 ## 🛠️ Technical Skills

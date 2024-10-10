@@ -1,13 +1,15 @@
 # Revanth Padala
 
-👋 Hi, I'm Revanth Padala, an Information Systems graduate student at Northeastern University who is passionate about software development, back-end systems, and leveraging cloud technologies to build efficient and scalable applications. With a strong foundation in front-end and back-end technologies, I am committed to creating solutions that prioritize functionality and enhance the user experience.
+👋 Hi, I'm Revanth Padala, a passionate Data Scientist, Machine Learning Engineer, and Software Developer, currently pursuing a Master’s in Information Systems at Northeastern University. My expertise bridges the gap between software engineering and cutting-edge AI, allowing me to build efficient, scalable, and innovative solutions to solve real-world challenges.
+
+With a strong foundation in front-end and back-end technologies and hands-on experience in leveraging cloud platforms like AWS, I am committed to creating robust applications that enhance user experience while optimizing performance. Whether I'm developing machine learning models to tackle complex data problems or designing backend systems to improve scalability, I prioritize functionality, efficiency, and user satisfaction.
 
 ## 👨‍💻 About Me
 - 🔍 **Specialization**: Information Systems, Software Development, AWS
-- 💼 **Professional Experience**: Programmer Analyst at Cognizant Technology Solutions
+- 🤖 **Machine Learning Expertise**: Proficient in TensorFlow, PyTorch, and Scikit-Learn, with a focus on deep learning, NLP, and Transformers.
+- 💼 **Professional Experience**: Software Developer at Cognizant Technology Solutions
 - 🧠 **Academic Pursuits**: Currently pursuing a Master's degree in Information Systems, expected to graduate in May 2025.
 - 🏆 **Accomplishments**: Successfully engineered serverless applications and optimized web performance, resulting in significant efficiency improvements.
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🧩 **Fun Facts**:
   - The first computer programmer was [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace), an English mathematician known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.
@@ -34,6 +36,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> &emsp;
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> &emsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> &emsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/>       &emsp;
+  <img src="https://raw.githubusercontent.com/kubernetes/community/master/icons/png/k8s-icon-color.svg" alt="Deep Learning" width="40" height="40"/> &emsp;
+  <img src="https://img.icons8.com/color/48/000000/nlp.png" alt="NLP" width="40" height="40"/> &emsp;
+  <img src="https://img.icons8.com/color/48/000000/transformer.png" alt="Transformers" width="40" height="40"/>
+</p>
+
 ## 🛠️ Technical Skills
 
 - **Languages**: Java, Python, C, C++
@@ -54,10 +65,6 @@
   <img src="https://github.com/user-attachments/assets/3f73b8ee-4de3-4ae3-9c4f-5a9e0954f070" alt="GitHub" width="40" height="40"/>
 </a>
 
-
-
-
-## 📈 GitHub Stats
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
 
